@@ -2,7 +2,7 @@
 
 (What The Fuck, Client From Hell)
 
-Das kundenorientierte CSS-Framework WTFCFH (**What The Fuck, Client From Hell**) passt sich den Sprachregelungen unserer Kunden an. Seine Stärke sind kunden-semantische Klassennamen. Der besseren Lesbarkeit wegen - und weil es inhaltlich so gut passt- nutzen wir CamelCase. 
+Das kundenorientierte CSS-Framework WTFCFH (**What The Fuck, Client From Hell**) passt sich den Sprachregelungen unserer Kunden an. Seine Stärke sind kunden-semantische Klassennamen. Der besseren Lesbarkeit wegen nutzen wir CamelCase. 
 
 Als Erweiterung gibt es ausserdem Designer-affine Klassennamen.
 
