@@ -8,7 +8,7 @@ Als Erweiterung gibt es ausserdem Designer-affine Klassennamen.
 
 Das Framework liefert keine fertigen Lösungen, sondern Namenskonventionen, die den Umgang mit den entstehenden Codemonstern während der Projektphase leichter handhaben lassen.
 
-WTFCFH ist eine Sammlung an Best Practices aus der täglichen Arbeit von [Jens Grochtdreis](https://twitter.com/flocke), [Nils Pooker](https://twitter.com/pookerman) und [Marc Hinse](https://twitter.com/mademyday). Aber auch aus fremden Projekten wurden Anregungen genommen. Die Klasse ``.ichWaerGernEineUeberschriftDarfAberNicht-h2`` basiert auf der Arbeit der Entwickler bei [Stern.de](http://stern.de):
+WTFCFH ist eine Sammlung an Best Practices aus der täglichen Arbeit von [Jens Grochtdreis](https://twitter.com/flocke), [Nils Pooker](https://twitter.com/pookerman) und [Marc Hinse](https://twitter.com/mademyday). Aber auch aus fremden Projekten wurden Anregungen genommen. Die Klasse ``.ichWaerGernEineUeberschriftDarfAberNicht-h2`` basiert beispielsweise auf der Arbeit der Entwickler bei [Stern.de](http://stern.de):
 
 	<div class="boxContent">
 	  <a class="h2" href="#" title="Das soll eigentlich eine Überschrift sein, aber der SEO-Berater hat es verboten!">
